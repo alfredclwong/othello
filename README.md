@@ -1,0 +1,1 @@
+[![codecov](https://codecov.io/gh/alfredclwong/othello/graph/badge.svg?token=AE6KMQ0KY0)](https://codecov.io/gh/alfredclwong/othello)
